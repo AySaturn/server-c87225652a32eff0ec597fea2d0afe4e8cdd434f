@@ -1,0 +1,15 @@
+.DS_STORE
+db/
+dist/
+node_modules
+database.db
+tsconfig.tsbuildinfo
+files/
+.env
+config.json
+
+.vscode/settings.json
+api/assets/plugins/*.js
+.idea/
+*.code-workspace
+
